@@ -4,4 +4,6 @@
 
 2. There are two argument variables -test which has a value of False by default. and -train_again which if you want to load your model and train from the last checkpoint. 
 
-3. To test the results of our model simply run in the terminal "python dmpt.py -test=True"
+3. Download the weights.zip folder from 'releases' and put into the root folder
+
+4. To test the results of our model simply run in the terminal "python dmpt.py -test=True"
